@@ -135,6 +135,12 @@ main::before{
     font-weight: 700;
 }
 
+#payment_btn:hover{
+
+    background-color:  #766CF1;
+
+}
+
 #change_btn{
     border:none;
     background:none;
@@ -144,6 +150,10 @@ main::before{
     padding-right:10px;
 }
 
+#change_btn:hover{
+    color:#8078DE;
+}
+
 #cancel_btn{
     border: none;
     background: none;
@@ -151,6 +161,10 @@ main::before{
     color:#6D7693;
     font-size:15px;
     margin-bottom:42px;
+}
+
+#cancel_btn:hover{
+    font-weight: 900;
 }
 
 
